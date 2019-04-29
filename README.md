@@ -1,2 +1,8 @@
 # hello-world
-Mijn eerste Github repository
+
+Hallo!
+
+Dit is mijn eerste GitHub repository.
+Ik neem deel aan de Boot Camp van CodeGorilla. Leuk!
+
+
